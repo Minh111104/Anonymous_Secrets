@@ -58,4 +58,4 @@ This is a Node.js web application that displays a random secret and its author, 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is created for educational purpose.
